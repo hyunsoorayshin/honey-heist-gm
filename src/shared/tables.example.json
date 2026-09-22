@@ -1,0 +1,64 @@
+{
+  "title": "Bear Heist GM",
+  "statLabels": {
+    "bear": "Bear",
+    "criminal": "Criminal"
+  },
+  "statusLabels": {
+    "active": "Active",
+    "betrayed": "Out (Criminal maxed)",
+    "lost-it": "Out (Bear maxed)"
+  },
+  "descriptors": [
+    "Descriptor 1",
+    "Descriptor 2",
+    "Descriptor 3",
+    "Descriptor 4",
+    "Descriptor 5",
+    "Descriptor 6"
+  ],
+  "roles": ["Role 1", "Role 2", "Role 3", "Role 4", "Role 5", "Role 6"],
+  "bearTypes": [
+    { "name": "Bear Type 1", "skill": "Skill 1", "icon": "🐻" },
+    { "name": "Bear Type 2", "skill": "Skill 2", "icon": "🐻" },
+    { "name": "Bear Type 3", "skill": "Skill 3", "icon": "🐻" },
+    { "name": "Bear Type 4", "skill": "Skill 4", "icon": "🐻" },
+    { "name": "Bear Type 5", "skill": "Skill 5", "icon": "🐻" },
+    { "name": "Bear Type 6", "skill": "Skill 6", "icon": "🐻" }
+  ],
+  "hats": ["Hat 1", "Hat 2", "Hat 3", "Hat 4", "Hat 5", "Hat 6", "Hat 7"],
+  "organizerTraits": [
+    "Organizer Trait 1",
+    "Organizer Trait 2",
+    "Organizer Trait 3",
+    "Organizer Trait 4",
+    "Organizer Trait 5",
+    "Organizer Trait 6"
+  ],
+  "locationAdjectives": [
+    "Location Adjective 1",
+    "Location Adjective 2",
+    "Location Adjective 3",
+    "Location Adjective 4",
+    "Location Adjective 5",
+    "Location Adjective 6"
+  ],
+  "locationNouns": [
+    "Location Noun 1",
+    "Location Noun 2",
+    "Location Noun 3",
+    "Location Noun 4",
+    "Location Noun 5",
+    "Location Noun 6"
+  ],
+  "prizes": ["Prize 1", "Prize 2", "Prize 3", "Prize 4", "Prize 5", "Prize 6"],
+  "securityFeatures": [
+    "Security Feature 1",
+    "Security Feature 2",
+    "Security Feature 3",
+    "Security Feature 4",
+    "Security Feature 5",
+    "Security Feature 6"
+  ],
+  "twists": ["Twist 1", "Twist 2", "Twist 3", "Twist 4", "Twist 5", "Twist 6"]
+}

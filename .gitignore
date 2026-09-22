@@ -1,0 +1,9 @@
+node_modules
+out
+dist
+.DS_Store
+*.log
+*.tsbuildinfo
+
+# Your own filled-in game tables never belong in the repo.
+tables.json
